@@ -1,6 +1,6 @@
 {
-  "name": "npm-script-study2100",
-  "version": "1.0.0",
+  "name": "npm-script-study",
+  "version": "1.0.1",
   "description": "",
   "license": "ISC",
   "author": "",
@@ -11,5 +11,10 @@
   },
   "bin": {
     "npm_script_study2100": "hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codekissmev0/literate-telegram",
+    "directory": "npm-script-study2100"
   }
 }
